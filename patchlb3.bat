@@ -17,4 +17,5 @@ echo =========================
 echo What would you like to do?
 echo [1]. Install the hook
 echo [2]. Update the server to use
-echo [3]. Quit
+echo [3]. Uninstall the hook
+echo [4]. Quit
