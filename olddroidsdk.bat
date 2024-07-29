@@ -2,7 +2,7 @@
 REM
 REM OldDroid SDK Project Generator
 REM GPL-V3
-REM Patches the game to work with an alternate server
+REM A SDK for old Android Versions
 REM
 goto warning
 :warning
@@ -27,5 +27,8 @@ rem Definitely idiotic code
 cls
 echo =========================
 echo OldDroid SDK
-echo Version 0.50
+echo Java + XML Project
 echo =========================
+echo Step 1. Project name
+
+echo Step 2. Project Package
