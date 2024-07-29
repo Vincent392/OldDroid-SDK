@@ -1,5 +1,6 @@
-# lbp3hook
-a thing that forces LBP3 to use an alternate server.
+# OldDroid SDK
+A SDK for old versions of Android (4.4 and lower)
 
-# howto do this?
-I don't know!
+# Project Types
+Java + XML
+Java + HTML/JS
